@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  border: 1px solid #385456;
+  border-radius: 20px;
+  background: linear-gradient(115deg, #1d9bb2, #ffffff);
+  /* background-color: */
+}
+body{
+  background: linear-gradient(115deg, #f4baeb,#1d9bb2, #75f6ff);
+}
+input{
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  color: white;
+}
+section{
+  border-radius: 10px;
+}
